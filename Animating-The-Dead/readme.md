@@ -3,7 +3,7 @@ Here is a readme for Seth to mess with.
 
 What do we want to include?
 
-All relevant PS Macros + Brushes + Patterns + All bits of code for randomzation in AEE + Code for data prep + processing in GC & on CMD
+All relevant PS Macros + Brushes + Patterns + base stick/moss/shadow elements + All bits of code for randomzation in AEE + Code for data prep + processing in GC & on CMD
 
 Sample set of training images to train a yes/no lizard & three species model 
 
