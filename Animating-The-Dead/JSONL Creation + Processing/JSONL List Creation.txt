@@ -1,0 +1,48 @@
+
+{"content": "gs://sourcebucket/datasets/images/source_image.jpg", "mimeType": "image/jpeg"}
+
+gsutil ls 'gs://atd-test-images/Yes-No Model Test/Yes-Lizard'> list.txt
+#enter
+ls
+#enter
+cat list.txt
+#generates the list below
+
+gs://atd-test-images/Test/Y - Cro/Eecro1.jpg
+gs://atd-test-images/Test/Y - Cro/eecroceaterbm05.jpg
+gs://atd-test-images/Test/Y - Cro/eecroceaterbm052.jpg
+gs://atd-test-images/Test/Y - Cro/eecroceaterbm054.jpg
+gs://atd-test-images/Test/Y - Cro/eecroceaterbm05juv.jpg
+gs://atd-test-images/Test/Y - Cro/eecroceaterft01juvdime.jpg
+gs://atd-test-images/Test/Y - Cro/eecroceaterft3032.jpg
+gs://atd-test-images/Test/Y - Cro/eecroceaterkc311.jpg
+gs://atd-test-images/Test/Y - Cro/eecroceaterkc3112.jpg
+gs://atd-test-images/Test/Y - Cro/eecroceatorcfkc2.jpg
+gs://atd-test-images/Test/Y - Cro/eecroceatorftj.jpg
+gs://atd-test-images/Test/Y - Cro/large (1).jpg
+gs://atd-test-images/Test/Y - Cro/large (2).jpg
+gs://atd-test-images/Test/Y - Cro/large (3).jpg
+gs://atd-test-images/Test/Y - Cro/large (7).jpg
+gs://atd-test-images/Test/Y - Cro/large.jpeg
+gs://atd-test-images/Test/Y - Cro/large.jpg
+
+{"content":'*INSERT OBJECT DIRECTORY HERE', "mimeType": "image/jpeg"}
+
+{"content":'gs://atd-test-images/Test/Y - Cro/eecroceaterbm05.jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/eecroceaterbm052.jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/eecroceaterbm054.jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/eecroceaterbm05juv.jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/eecroceaterft01juvdime.jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/eecroceaterft3032.jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/eecroceaterkc311.jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/eecroceaterkc3112.jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/eecroceatorcfkc2.jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/eecroceatorftj.jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/large (1).jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/large (2).jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/large (3).jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/large (7).jpg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/large.jpeg', "mimeType": "image/jpeg"}
+{"content":'gs://atd-test-images/Test/Y - Cro/large.jpg', "mimeType": "image/jpeg"}
+
+SAVE AS A -".JSONL"
