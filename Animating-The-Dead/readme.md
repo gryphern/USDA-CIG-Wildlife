@@ -1,9 +1,7 @@
-What do we want to include?
+This folder contains all relevant information//methdology for the creation of synthetic training data using preserved herpteofauna specimen. 
 
-Save and upoad PDF of presntation and maybe a link to a video demonstration. 
+**NOTE - It is highly recommended that one first watches/reads the presentation provided for a consicise overview of what this process entails THEN begin unpacking the SOP provided.**
 
-Make 2 large images - capture+animation = 1st
-                      making training images + training model = 2nd 
 
 **Programs Used + Versioning:**
 
@@ -18,5 +16,11 @@ Make 2 large images - capture+animation = 1st
       -Vertex AI API
       
       
-     Make file for googleparse & JSONL creation w/recommendation for enviroment packages to run the code
       
+      What else do we want to include?
+      
+Save and upoad a link to a video demonstration. 
+
+Make 2 large images - capture+animation = 1st
+                      making training images + training model = 2nd 
+
