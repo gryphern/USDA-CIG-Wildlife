@@ -7,4 +7,4 @@ This folder contains a examples/loose directions for creating a JSONL file from 
   json
   openpyxl_
   
- **If you are unfamiliar with how to download packages, the usual command is #pip install <modulename>#**
+ **If you are unfamiliar with how to download packages, the usual command is "pip install _modulename_"**
