@@ -3,8 +3,11 @@ This folder contains a examples/loose directions for creating a JSONL file from 
 **NOTE - In order to use the googleparse.py code for processing batch predction JSONL files you will need to make sure that you have the following libraries accessible in your Python 3 Environment.**
  
  _pandas
-  argparse
-  json
-  openpyxl_
+ 
+ _argparse
+  
+  _json
+  
+  _openpyxl_
   
  **If you are unfamiliar with how to download packages, the usual command is "pip install _modulename_"**
