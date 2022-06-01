@@ -15,11 +15,4 @@ This folder contains all relevant information//methdology for the creation of sy
       
       -Vertex AI API
       
-      
-What else do we want to include?
-      
-Save and upoad a link to a video demonstration. 
-
-Make 2 large images - capture+animation = 1st
-                      making training images + training model = 2nd 
 
