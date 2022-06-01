@@ -5,4 +5,5 @@ This is a sample dataset of synthetic training images generated using the method
 Click/Copy the DOI or link below to be taken to a Zenodo reository where you can download the full dataset in a '.zip' file. 
 
 ---> _10.5281/zenodo.6603940_
+
 -----> https://doi.org/10.5281/zenodo.6603940
