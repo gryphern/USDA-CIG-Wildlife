@@ -1,4 +1,4 @@
-## USDA-CIG-Wildlife
+## Creating synthetic and site specific ML training datasets for conservation
 Project files for open-source equipment and software for land owners to manage wildlife
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6603940.svg)](https://doi.org/10.5281/zenodo.6603940)
